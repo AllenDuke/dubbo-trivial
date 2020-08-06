@@ -14,6 +14,7 @@ public class CalculatorImpl implements Calculator {
 
     @Override
     public Integer add(Integer a, Integer b) {
+        for(int i=0;i<10000;i++) a+=b;
         return a+b;
     }
 
