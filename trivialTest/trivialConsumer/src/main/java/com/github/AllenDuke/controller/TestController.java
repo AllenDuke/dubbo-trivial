@@ -6,12 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- * @author Satsuki
- * @time 2019/8/27 15:58
- * @description:
- * 调用dubbo
- */
+
 @RestController
 public class TestController {
 
