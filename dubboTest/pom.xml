@@ -17,11 +17,6 @@
     </modules>
 
     <dependencies>
-        <dependency>
-            <groupId>com.github.AllenDuke</groupId>
-            <artifactId>common</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
 
         <!-- dubbo的依赖 -->
         <dependency>
